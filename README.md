@@ -1,0 +1,3 @@
+Project Dependencies:
+ - cmake
+ - opencv
